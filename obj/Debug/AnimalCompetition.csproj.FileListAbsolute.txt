@@ -1,0 +1,7 @@
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\bin\Debug\AnimalCompetition.exe.config
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\bin\Debug\AnimalCompetition.exe
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\bin\Debug\AnimalCompetition.pdb
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\obj\Debug\AnimalCompetition.csproj.CoreCompileInputs.cache
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\obj\Debug\AnimalCompetition.exe
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\obj\Debug\AnimalCompetition.pdb
+E:\munka\Morris\AnimalCompetition\AnimalCompetition\obj\Debug\AnimalCompetition.csprojAssemblyReference.cache
